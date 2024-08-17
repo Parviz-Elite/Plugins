@@ -237,7 +237,7 @@
         "renameLabel": "نام جدید برای $s :",
         "duplicateError": "وضعیتی با این نام از پیش ذخیره شده.",
         "emptyStates": "هیچ وضعیتی ذخیره نشده",
-        "removeError": "حذف با خطا موماجه شد",
+        "removeError": "حذف با خطا مواجه شد",
         "removeSubmit": "حذف وضعیت",
         "removeTitle": "حذف وضعیت جدول",
         "renameTitle": "تغییر نام وضعیت"
